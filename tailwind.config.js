@@ -1,0 +1,1 @@
+module.exports={content:['./app/**/*.tsx'],theme:{extend:{colors:{bg:'var(--bg)',bg2:'var(--bg2)',tx:'var(--tx)',mu:'var(--mu)',ac:'var(--ac)'}}},plugins:[]}
